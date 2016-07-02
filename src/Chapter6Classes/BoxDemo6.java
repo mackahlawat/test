@@ -4,8 +4,8 @@ public class BoxDemo6 {
 
 	public static void main(String[] args) {
 		// allocates,declares initialize of Box objects
-		Box5 mybox1 = new Box5(10 , 20 ,15);
-		Box5 mybox2 = new Box5(3 , 6 , 9);
+		Box5 mybox1 = new Box5(20 , 30 ,45);
+		Box5 mybox2 = new Box5(7 , 9 , 8);
 		
 		double vol;
 		

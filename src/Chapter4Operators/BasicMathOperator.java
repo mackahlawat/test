@@ -4,7 +4,7 @@ public class BasicMathOperator {
 
 	public static void main(String[] args) {
 	
-		//airthmetic integers
+		//arithmetic integers
 		System.out.println("Airthmetic Integers");
 		int a = 1 + 1;
 		int b = a * 4;
@@ -17,7 +17,7 @@ public class BasicMathOperator {
 		System.out.println("d = " + d);
 		System.out.println("e = " + e);
 		
-		//airthmetic using double
+		//arithmetic using double
 		System.out.println("\nFloating point Airthmetic");
 		double da = 1 + 1;
 		double db = da * 4;

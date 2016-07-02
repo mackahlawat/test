@@ -3,6 +3,7 @@ package Chapter6Classes;
 public class BoxDemo5 {
 
 	public static void main(String[] args) {
+		
 		// declare,allocate and initialize of box objects
 		Box4 mybox1 = new Box4();
 		Box4 mybox2 = new Box4();

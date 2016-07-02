@@ -6,7 +6,7 @@ public class DynamicInitialization {
 		double a = 5.0 ;
 		double b = 7.0;
 		
-		// c is dynamically intialized
+		// c is dynamically initialized
 		double c = Math.sqrt(a * a + b * b);
 		
 		System.out.println("Hypotenuse is " + c);

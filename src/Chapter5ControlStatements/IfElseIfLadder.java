@@ -15,7 +15,7 @@ public class IfElseIfLadder {
 	   else if(month == 9 || month == 10 || month == 11)
 		   season = "Autumn";
 	   else 
-		   season = "Bogus";
+		   season = "Bogus Month";
 	   System.out.println("September is in the " +  season + " . ");
 	   
 	}

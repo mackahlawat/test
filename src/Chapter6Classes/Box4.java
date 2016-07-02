@@ -7,7 +7,7 @@ public class Box4 {
 	
      // this is the constructor for box.
 	Box4() {
-		System.out.println("Constructor box");
+		System.out.println("Constructing box");
 		width = 10;
 		height = 10;
 		depth = 10;

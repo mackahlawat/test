@@ -5,6 +5,7 @@ public class Box1 {
 	double height;
 	double depth;
 	
+    // compute and return value
 	double volume() {
 	return width * height * depth;
 	}

@@ -4,9 +4,9 @@ public class OverloadCons {
 
 	public static void main(String[] args) {
 		// create boxes when using the various constructors
-		Box mybox1 = new Box(10, 20, 15);
+		Box mybox1 = new Box(20, 40, 65);
         Box mybox2 = new Box();
-	    Box mycube = new Box(7);
+	    Box mycube = new Box(9);
 	    
 	    double vol;
 	    
